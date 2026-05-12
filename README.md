@@ -1,4 +1,4 @@
-This GitHub contains code for "Regulating a Monopsonist With Unknown Productivity". 
+This GitHub contains code for ["Regulating a Monopsonist With Unknown Productivity"](https://stratton.scholars.harvard.edu/sites/g/files/omnuum10751/files/2026-05/Regulating%20a%20Monopsonist%20with%20Unknown%20Productivity.pdf).
 The code is in three parts. 
 First, `code/create diagrams.do` generates Figures 1, 2, and 3, which do not involve any data. 
 Second, `code/download data.do` downloads the data for Appendix Figure A2. 
